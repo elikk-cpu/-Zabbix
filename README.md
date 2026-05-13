@@ -65,7 +65,7 @@ php_value date.timezone Europe/Moscow
 
 ### Скриншот авторизации/админки Zabbix
 
-![Zabbix dashboard](images/zabbix-dashboard.png)
+<img src = "img/Pasted image 20260512181644.png" width = 100%>
 
 ---
 
@@ -174,16 +174,16 @@ zabbix_get -s 192.168.229.136 -k agent.ping
 
 ### Скриншот раздела «Настройка → Узлы сети»
 
-![Zabbix hosts](images/zabbix-hosts.png)
+<img src = "img/image.png" width = 100%>
 
 ---
 
 ### Скриншот лога Zabbix Agent
 
-![Zabbix agent log](images/zabbix-agent-log.png)
+<img src = "img/Pasted image 20260513183315.png" width = 100%>
 
 ---
 
 ### Скриншот раздела «Мониторинг → Последние данные»
 
-![Zabbix latest data](images/zabbix-latest-data.png)
+<img src = "img/Pasted image 20260513182414.png" width = 100%>
